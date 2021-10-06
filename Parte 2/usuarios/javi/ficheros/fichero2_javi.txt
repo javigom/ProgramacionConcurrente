@@ -1,0 +1,5 @@
+Este es el contenido del fichero 2.
+
+Propiedad de javi.
+
+Un saludo.
